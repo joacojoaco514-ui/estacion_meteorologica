@@ -9,7 +9,7 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 ### Datos del Estudiante
 | Apellido y Nombre | E-mail | GitHub |
 | :--- | :---| :---:|
-| Lopez Joaquin |@escuelasproa.edu.ar| [ver perfil](https://github.com/https://github.com/joacojoaco514-ui)|
+| Lopez Joaquin |joaquinlopez@escuelasproa.edu.ar| [ver perfil](https://github.com/https://github.com/joacojoaco514-ui)|
 
 ## Estructura del Proyecto
 * **analisis_ipynb/** Prototipado de datos en Google Colab.
