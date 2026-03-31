@@ -1,4 +1,4 @@
-# **Estación Meteorológica ProA 5año**
+# -Estación Meteorológica ProA 5año
 ## *Integrantes:Lopez Joaquin*
 * *Sensor de temperatura, humedad y presión.*
 # **Proyecto: Estación Meteorológica 2026**
