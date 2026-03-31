@@ -6,7 +6,8 @@
 Este repositorio contiene el desarrollo integral de una estación meteorológica, integrando hardware con Arduino, Programación en visual studio code de lenguaje Python y Análisis de datos MySQL workbrench, power BI y Google colab.
 
 
-### Datos del Estudiante
+### *Datos del Estudiante*
+
 | Apellido y Nombre | E-mail | GitHub |
 | :--- | :---| :---:|
 | Lopez Joaquin |joaquinlopez@escuelasproa.edu.ar| [ver perfil](https://github.com/https://github.com/joacojoaco514-ui)|
