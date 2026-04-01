@@ -12,7 +12,7 @@
 | :--- | :---| :---:|
 | Lopez Joaquin |joaquinlopez@escuelasproa.edu.ar| [ver perfil](https://github.com/https://github.com/joacojoaco514-ui)|
 
-<<<<<<< HEAD
+
 ## **Estructura del Proyecto**
 * **analisis_ipynb/** *Prototipado de datos en Google Colab.*
 * **arduino_ino/** *Código fuente para el Arduino UNO R3.*
@@ -20,7 +20,7 @@
 * **database_sql/**: *Scripts de MySQL Workbench.*
 * **docs/**: *Documentación y leyes de software.*
 * **python_app/**: *Aplicación de escritorio (POO).*
-=======
+
 ## Estructura del Proyecto
 * **analisis_ipynb/** Prototipado de datos en Google Colab.
 * **arduino_ino/** Código fuente para el Arduino UNO R3.
@@ -28,7 +28,7 @@
 * **database_sql/**: Scripts de MySQL Workbench.
 * **docs/**: Documentación y leyes de software.
 * **python_app/**: Aplicación de escritorio (POO).
->>>>>>> acaa79c (Actualizo tabla de datos personales en README)
+
 
 ## 🛠️ Tecnologías Utilizadas 
 
@@ -39,11 +39,10 @@
 * **🐍 Python | Desarrollo de la lógica principal y servicios en python_app.**
 * **📄 Markdown | Manuales y especificaciones técnicas dentro de docs.**
 * **Control de Versiones: 🌿 Git & GitHub**
-<<<<<<< HEAD
-=======
 
 
 
 
 
->>>>>>> acaa79c (Actualizo tabla de datos personales en README)
+
+
