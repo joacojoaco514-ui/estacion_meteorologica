@@ -5,7 +5,7 @@
 ## **Especialidad / 5to Año**
 
 
-|subtitulo|
+###|mi repo|
 | :---: |
 |*Este repositorio contiene el desarrollo integral de una estación meteorológica, integrando hardware con Arduino, Programación en visual studio code de lenguaje Python y Análisis de datos MySQL workbrench, power BI y Google colab.*|
 
