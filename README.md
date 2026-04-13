@@ -5,7 +5,7 @@
 ## **Especialidad / 5to Año**
 
 
-###|mi repo|
+|mi repo|
 | :---: |
 |*Este repositorio contiene el desarrollo integral de una estación meteorológica, integrando hardware con Arduino, Programación en visual studio code de lenguaje Python y Análisis de datos MySQL workbrench, power BI y Google colab.*|
 
@@ -15,24 +15,24 @@
 | :--- | :---| :---:|
 | Lopez Joaquin |joaquinlopez@escuelasproa.edu.ar| [ver perfil](https://github.com/https://github.com/joacojoaco514-ui)|
 
-
-## **Estructura del Proyecto**
-* **analisis_ipynb/** *Prototipado de datos en Google Colab.*
-* **arduino_ino/** *Código fuente para el Arduino UNO R3.*
-* **dashboard_pbix/**: *Reportes en Power BI.*
-* **database_sql/**: *Scripts de MySQL Workbench.*
-* **docs/**: *Documentación y leyes de software.*
-* **python_app/**: *Aplicación de escritorio (POO).*
+```diff
+ ## **Estructura del Proyecto**
+- * **analisis_ipynb/** *Prototipado de datos en Google Colab.*
+- * **arduino_ino/** *Código fuente para el Arduino UNO R3.*
+- * **dashboard_pbix/**: *Reportes en Power BI.*
+- * **database_sql/**: *Scripts de MySQL Workbench.*
+- * **docs/**: *Documentación y leyes de software.*
+- * **python_app/**: *Aplicación de escritorio (POO).*
 
 ## 🛠️ Tecnologías Utilizadas 
 
-* **📓 Jupyter | Experimentación y limpieza de datos en analisis_ipynb.**
-* **🤖 Arduino | Implementación de firmware y control de hardware en arduino_ino.**
-* **📊 Power BI | Creación de tableros dinámicos y métricas en dashboard_pbix.**
-* **🗄️ SQL | Diseño y gestión de la estructura relacional en database:sql.**
-* **🐍 Python | Desarrollo de la lógica principal y servicios en python_app.**
-* **📄 Markdown | Manuales y especificaciones técnicas dentro de docs.**
-* **Control de Versiones: 🌿 Git & GitHub**
++ * **📓 Jupyter | Experimentación y limpieza de datos en analisis_ipynb.**
++ * **🤖 Arduino | Implementación de firmware y control de hardware en arduino_ino.**
++ * **📊 Power BI | Creación de tableros dinámicos y métricas en dashboard_pbix.**
++ * **🗄️ SQL | Diseño y gestión de la estructura relacional en database:sql.**
++ * **🐍 Python | Desarrollo de la lógica principal y servicios en python_app.**
++ * **📄 Markdown | Manuales y especificaciones técnicas dentro de docs.**
++ * **Control de Versiones: 🌿 Git & GitHub**
 
 
 
