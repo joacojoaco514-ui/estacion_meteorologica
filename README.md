@@ -3,18 +3,18 @@
 * *Sensor de temperatura, humedad y presión.*
 # **Proyecto: Estación Meteorológica 2026**
 ## **Especialidad / 5to Año**
-
+---
 
 |mi repo|
 | :---: |
 |*Este repositorio contiene el desarrollo integral de una estación meteorológica, integrando hardware con Arduino, Programación en visual studio code de lenguaje Python y Análisis de datos MySQL workbrench, power BI y Google colab.*|
-
+---
 ## **Datos del Estudiante**
 
 | Apellido y Nombre | E-mail | GitHub |
 | :--- | :---| :---:|
 | Lopez Joaquin |joaquinlopez@escuelasproa.edu.ar| [ver perfil](https://github.com/https://github.com/joacojoaco514-ui)|
-
+---
 ```diff
  ## **Estructura del Proyecto**
 - * **analisis_ipynb/** *Prototipado de datos en Google Colab.*
@@ -23,7 +23,7 @@
 - * **database_sql/**: *Scripts de MySQL Workbench.*
 - * **docs/**: *Documentación y leyes de software.*
 - * **python_app/**: *Aplicación de escritorio (POO).*
-
+---
 ## 🛠️ Tecnologías Utilizadas 
 
 + * **📓 Jupyter | Experimentación y limpieza de datos en analisis_ipynb.**
