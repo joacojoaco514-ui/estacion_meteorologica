@@ -4,7 +4,11 @@
 
 ---
 
+HEAD
 ## 👤 Datos del Estudiante
+
+## 👤 Datos del Estudiante:
+
 
 | Apellido y Nombre | E-mail | GitHub |
 | :--- | :--- | :---: |
