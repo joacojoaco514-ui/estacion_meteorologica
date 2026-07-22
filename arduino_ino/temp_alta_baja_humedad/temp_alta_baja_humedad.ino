@@ -4,13 +4,15 @@
 const int pinLedCalor = 13; // LED Rojo (Opción 1 - Alertas Altas)
 const int pinLedFrio = 12;  // LED Azul (Opción 2 - Alertas Bajas)
 DHT dht(DHTPIN, DHTTYPE);
+
 void setup() {
   pinMode(pinLedCalor, OUTPUT);
   pinMode(pinLedFrio, OUTPUT);
   Serial.begin(9600);  
-  Serial.println("--- Estación Eco-Intelligence: Opción 1 y 2 Activas ---");
+  Serial.println("--- Estación Eco-Intelligence: temperatura alta, baja y humedad ---");
   dht.begin();
 }
+
 void loop() {
   // El DHT11 requiere un tiempo de estabilidad de 2 segundos
   delay(2000); 
